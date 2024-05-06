@@ -21,10 +21,10 @@ CNN
 
 ## Project Partners:
 ```
-   1. Ashitosh Rohom [](ashitosh.rohom@gmail.com)
-   2. Chinmay Sadaphal [](sadaphalchinmay@gmail.com)
-   3. Tejas Salve [](tejassalve10@gmail.com)
-   4. Aditya Mendhakar [](adityamendhkar@gmail.com)
+   1. Ashitosh Rohom     (ashitosh.rohom@gmail.com)
+   2. Chinmay Sadaphal   (sadaphalchinmay@gmail.com)
+   3. Tejas Salve        (tejassalve10@gmail.com)
+   4. Aditya Mendhakar   (adityamendhkar@gmail.com)
 ```
 
 ## Guided By : 
