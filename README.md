@@ -9,7 +9,7 @@ This repository aims to detect diseases that occur on the maize plants using Con
 ## Traning
 Here we use a pre-trained VGG16 network for our disease classification problem. Then this pre-trained VGG16 was trained on our custom dataset. Our dataset mainly consists the images from [PlantVillage Dataset](https://www.kaggle.com/emmarex/plantdisease). Additional images were scraped from google and manual preprocessing was applied to it before adding it to the original dataset.
 
-##  
+  
 This code was developed on : 
 ```
 tensorflw
@@ -19,15 +19,15 @@ VGG 16
 CNN
 ```
 
-##Project Partners:
+## Project Partners:
 ```
-Markup :  1. Ashitosh Rohom
-          2. Chinmay Sadaphal
-          3. Tejas Salve
-          4. Aditya Mendhakar
+   1. Ashitosh Rohom
+   2. Chinmay Sadaphal
+   3. Tejas Salve
+   4. Aditya Mendhakar
 ```
 
-##Guided By : 
+## Guided By : 
 ```
 Dr. A.V.Bramhane Sir & Sanjivani College Of Engineering.          
 ```
