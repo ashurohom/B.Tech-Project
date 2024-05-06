@@ -15,6 +15,8 @@ This code was developed on :
 tensorflw
 numpy
 Flask
+VGG 16 
+CNN
 ```
 
 ##Project Partners:
@@ -23,5 +25,9 @@ Markup :  1. Ashitosh Rohom
           2. Chinmay Sadaphal
           3. Tejas Salve
           4. Aditya Mendhakar
-##Guided By : Dr. A.V.Bramhane Sir & Sanjivani College Of Engineering.          
+```
+
+##Guided By : 
+```
+Dr. A.V.Bramhane Sir & Sanjivani College Of Engineering.          
 ```
